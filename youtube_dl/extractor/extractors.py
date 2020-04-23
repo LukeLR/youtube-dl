@@ -427,6 +427,7 @@ from .hellporno import HellPornoIE
 from .helsinki import HelsinkiIE
 from .hentaistigma import HentaiStigmaIE
 from .hgtv import HGTVComShowIE
+from .hhumediathek import HHUMediathekIE
 from .hketv import HKETVIE
 from .hidive import HiDiveIE
 from .historicfilms import HistoricFilmsIE
